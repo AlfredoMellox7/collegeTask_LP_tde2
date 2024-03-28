@@ -1,0 +1,15 @@
+C:\cSharpAulas\collegeTask_LP_tde2\bin\Debug\net8.0\collegeTask_LP_tde2.exe
+C:\cSharpAulas\collegeTask_LP_tde2\bin\Debug\net8.0\collegeTask_LP_tde2.deps.json
+C:\cSharpAulas\collegeTask_LP_tde2\bin\Debug\net8.0\collegeTask_LP_tde2.runtimeconfig.json
+C:\cSharpAulas\collegeTask_LP_tde2\bin\Debug\net8.0\collegeTask_LP_tde2.dll
+C:\cSharpAulas\collegeTask_LP_tde2\bin\Debug\net8.0\collegeTask_LP_tde2.pdb
+C:\cSharpAulas\collegeTask_LP_tde2\obj\Debug\net8.0\collegeTask_LP_tde2.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpAulas\collegeTask_LP_tde2\obj\Debug\net8.0\collegeTask_LP_tde2.AssemblyInfoInputs.cache
+C:\cSharpAulas\collegeTask_LP_tde2\obj\Debug\net8.0\collegeTask_LP_tde2.AssemblyInfo.cs
+C:\cSharpAulas\collegeTask_LP_tde2\obj\Debug\net8.0\collegeTask_LP_tde2.csproj.CoreCompileInputs.cache
+C:\cSharpAulas\collegeTask_LP_tde2\obj\Debug\net8.0\collegeTask_LP_tde2.sourcelink.json
+C:\cSharpAulas\collegeTask_LP_tde2\obj\Debug\net8.0\collegeTask_LP_tde2.dll
+C:\cSharpAulas\collegeTask_LP_tde2\obj\Debug\net8.0\refint\collegeTask_LP_tde2.dll
+C:\cSharpAulas\collegeTask_LP_tde2\obj\Debug\net8.0\collegeTask_LP_tde2.pdb
+C:\cSharpAulas\collegeTask_LP_tde2\obj\Debug\net8.0\collegeTask_LP_tde2.genruntimeconfig.cache
+C:\cSharpAulas\collegeTask_LP_tde2\obj\Debug\net8.0\ref\collegeTask_LP_tde2.dll
